@@ -1,8 +1,12 @@
 # feature-detection
-We have published a .exe program for point cloud feature point detection
+We have published a .exe program for point cloud feature point detection.
+
 Run:
+
 Input: Point cloud with its filtered normal (in a PLY format)
+
 Output:
+
 feature_points.ply
 
 Parameter explanation:
