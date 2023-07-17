@@ -14,5 +14,6 @@ input k_i^n: A parameter that reduces the impact of noise.
 input the number of reserved points: Determine the number of points to be retained.
 
 Note:
-Only support the point cloud with “PLY” format
+Only support the point cloud with “PLY” format.
+
 Some parameters are hardly-coded in our code, although they occur in our paper.
