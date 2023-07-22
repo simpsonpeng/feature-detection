@@ -21,3 +21,7 @@ Note:
 Only support the point cloud with “PLY” format.
 
 Some parameters are hardly-coded in our code, although they occur in our paper.
+
+
+Please cite our work:
+https://doi.org/10.1016/j.cad.2023.103592
